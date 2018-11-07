@@ -18,7 +18,7 @@ Scenario and Bug Reports
 - Sprint: 1
 - Build No: 1
 - Platform: Mobile
-- OS: Android/iOS (Include Version)
+- OS: Android/iOS (Including actual Version number)
 - Browser: N/A
 - Note: This happens every time and it's not an intermittent issue
 - Prerequisite: Charged Mobile with APK/IPA file.
@@ -33,5 +33,5 @@ Scenario and Bug Reports
  - Actual Result: Two “No Thanks”  button is displayed on chat dialog Window and when the user is clicking on “No Thanks”    present outside the dialog window is not functional or clickable.
  - Expected Result:  Only one “No Thanks”  button should be displayed on chat dialog Window and the user should be able to click on it and land appropriate page
 
-- Screenshot : The screenshot is attached on Top
+- Screenshot : The screenshot is **mentioned on Top**
 
