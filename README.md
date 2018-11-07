@@ -2,7 +2,7 @@
 Bug Report
 
 
-
+<img src="1.png" width="900" />
 
 
 
@@ -30,7 +30,7 @@ Bug Report
    5. The dialog opens, when the push permission for chats is disabled. 
    6. Verify Two No Thanks button is displayed 
    7. No Thanks button outside Dialog is not working
-   Actual Result: Two “No Thanks”  button is displayed on chat dialog Window and when the user is clicking on “No Thanks” present outside the dialog window is not functional or clickable.
+   Actual Result: Two “No Thanks”  button is displayed on chat dialog Window and when the user is clicking on “No Thanks”    present outside the dialog window is not functional or clickable.
    Expected Result:  Only one “No Thanks”  button should be displayed on chat dialog Window and the user should be able to click on it and land appropriate page
 
 - Screenshot : The screenshot is attached on Top
